@@ -1,0 +1,4 @@
+pressword
+=========
+
+WordPress testing environment
